@@ -37,32 +37,18 @@ This project uses a Convolutional Neural Network (CNN) built with PyTorch, along
 ├── requirements.txt
 └── README.md
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🔧 Setup Instructions
 
-1. Clone the repository:
-```bash
+Clone the repository:
 git clone https://github.com/yourusername/plant-species-classification.git
-cd plant-species-classification
 Install dependencies:
-
-bash
-Copy
-Edit
 pip install -r requirements.txt
 Run the notebook or main script:
-
-bash
-Copy
-Edit
 jupyter notebook Plant_Species_Classification.ipynb
-# OR
-python plant_classifier.py
+
+
 
 📊 Future Enhancements
 Improve accuracy using data augmentation and advanced CNN architectures
